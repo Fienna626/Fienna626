@@ -13,7 +13,7 @@
 ✍️ &nbsp;In my free time, I enjoy video games and rockclimbing!\
 💬 &nbsp;Feel free to reach out to me for anything, especially discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at fiennaca@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/Fienna626/) for more details about work experience.
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/Fiennaca/) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -33,5 +33,5 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/Fienna626/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/Fiennaca/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:fiennaca@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
