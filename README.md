@@ -8,7 +8,7 @@
 
 💡 &nbsp;I'm a Computer Science graduate from Cal Poly Pomona\
 💻 &nbsp;I dabble in Software engineering, Data Analaysis, Machine learning, Artifical intelligence, and Computer Vision (Usually all in one)\
-🎓&nbsp;I graduated from Cal Poly Pomona (Computer Science B.S, Class of 2024).\
+🎓&nbsp; I graduated from Cal Poly Pomona (Computer Science B.S, Class of 2024).\
 🌱 &nbsp;I'm currently learning JS3D, looking for cool open-source projects to contribute to, and improving my skills\
 ✍️ &nbsp;In my free time, I enjoy video games and rockclimbing!\
 💬 &nbsp;Feel free to reach out to me for anything, especially discussions on the aforementioned topics!\
