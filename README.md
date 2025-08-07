@@ -18,17 +18,44 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+### 🛠️ Tech Stack
+
+#### **Languages**
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+
+---
+
+#### **Software Concepts / Skills**
+![API Integration](https://img.shields.io/badge/-API%20Integration-05122A?style=flat&logo=webcomponents.org&logoColor=white)&nbsp;
+![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-05122A?style=flat&logo=python&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-05122A?style=flat&logo=google-analytics)&nbsp;
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat&logo=plotly)&nbsp;
+![Backend](https://img.shields.io/badge/-Backend-05122A?style=flat&logo=spring)&nbsp;
+![Frontend](https://img.shields.io/badge/-Frontend-05122A?style=flat&logo=react)&nbsp;
+![End to End](https://img.shields.io/badge/-End%20to%20End-05122A?style=flat&logo=webcomponents.org&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=openai&logoColor=white)&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-05122A?style=flat&logo=openai&logoColor=white)&nbsp;
+
+---
+
+#### **Tools**
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+
 
 ### 📫 &nbsp; How to reach me:
 
